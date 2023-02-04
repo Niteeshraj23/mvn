@@ -5,3 +5,4 @@ this is for demo Slave2group
 
 dana dan
 NITEESH
+TRIGGER
