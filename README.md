@@ -19,3 +19,4 @@ last check
 agin last check
 slave2
 slave2 group
+slave3 group
