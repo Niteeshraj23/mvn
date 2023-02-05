@@ -23,3 +23,4 @@ slave3 group
 
 slave4 group
 slave5 group
+slave6 group
