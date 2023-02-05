@@ -17,3 +17,4 @@ right
 wrong
 last check
 agin last check
+slave2
